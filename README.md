@@ -2,8 +2,6 @@
 1st project for UCI Data Bootcamp
 
 
-I don't need to look at any intermediate work, just the final versions of data, notebooks and outputs. Thanks
-
 The datasets we worked on are in the Cleaned_Data folder
 
 
