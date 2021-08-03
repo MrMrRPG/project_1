@@ -1,6 +1,10 @@
 # project_1
 1st project for UCI Data Bootcamp
 
+For this project we analyzed datasets from the gaming industry. We used two datasets on kaggle, Game Sale Dataset and Top Twitch Game Datasets.
+We analyzed from the combination of these two datasets as well as the game sale dataset.
+In our analysis, we explored the relationship between video game sales vs twitch numbers and game ratings.
+
 
 The datasets we worked on are in the Cleaned_Data folder
 
