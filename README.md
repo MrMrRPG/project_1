@@ -4,7 +4,8 @@
 For this project we analyzed datasets from the gaming industry. We used two datasets on kaggle, Game Sale Dataset and Top Twitch Game Datasets.
 We analyzed from the combination of these two datasets as well as the game sale dataset.
 
-Please find our slides at the following link: https://docs.google.com/presentation/d/1bKU8KAHaBE34VizLjMsJfStJ5tPowxyWgOqRKvv1Zpc/edit?usp=sharing
+Please find our slides at the following link: 
+https://docs.google.com/presentation/d/1bKU8KAHaBE34VizLjMsJfStJ5tPowxyWgOqRKvv1Zpc/edit?usp=sharing
 
 In our analysis, we explored the relationship between video game sales vs twitch numbers and game ratings. 
 
